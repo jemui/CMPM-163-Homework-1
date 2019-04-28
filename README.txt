@@ -5,7 +5,9 @@ Jeanette Mui, jemui@ucsc.edu
 Homework 1
 Part A can run from https://cowsgooom.itch.io/unity-homework-1-part-a?secret=LHeD63swBmFEfwFmtuHDC576A
 Github Repo - https://github.com/jemui/CMPM-163-Homework-1
-Link to project files - https://drive.google.com/file/d/1UQ8wnjpvwIQAGq6OMR4nwBSMXb6oj6o9/view?usp=sharing
+
+All code is in the script and shaders folder for all 3 parts.
+Link to all project files - https://drive.google.com/file/d/1UQ8wnjpvwIQAGq6OMR4nwBSMXb6oj6o9/view?usp=sharing
 
 Part A. Design a 3D scene
 Files: 
